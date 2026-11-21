@@ -5,7 +5,7 @@
 </p>
 
 ```text
-bleenddev76@github
+BleendDev76@github
 -----------------
 📚 Analista Programador · Duoc UC
 🎧 Productor Musical · IP ARCOS
