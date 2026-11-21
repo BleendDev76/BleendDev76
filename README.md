@@ -10,7 +10,7 @@ BleendDev76@github
 📚 Analista Programador · Duoc UC
 🎧 Productor Musical · IP ARCOS
 🧠 Frontend, backend, BD, código limpio
-✉️  juancri.dev76@gmail.com
+✉️ juancri.dev76@gmail.com
 ```
 
 <p align="center">
