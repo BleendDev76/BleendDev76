@@ -6,7 +6,7 @@
 
 ```text
 bleenddev76@github
-------------------
+-----------------
 📚 Analista Programador · Duoc UC
 🎧 Productor Musical · IP ARCOS
 🧠 Frontend, backend, BD, código limpio
