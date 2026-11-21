@@ -5,16 +5,16 @@
 </p>
 
 ```text
-cristobal@zbleend
------------------
+bleenddev76@github
+------------------
 📚 Analista Programador · Duoc UC
 🎧 Productor Musical · IP ARCOS
 🧠 Frontend, backend, BD, código limpio
-✉️  juancrichile@gmail.com
+✉️  juancri.dev76@gmail.com
 ```
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cristobal-a-abrigo/"><b>LinkedIn</b></a> · <a href="mailto:juancrichile@gmail.com"><b>Gmail</b></a>
+  <a href="https://github.com/BleendDev76"><b>GitHub</b></a> · <a href="https://www.linkedin.com/in/cristobal-a-abrigo/"><b>LinkedIn</b></a> · <a href="mailto:juancri.dev76@gmail.com"><b>Gmail</b></a>
 </p>
 
 ## 美 · Stack
@@ -41,12 +41,12 @@ cristobal@zbleend
 
 ## 刀 · Proyectos
 
-- **[Tamagotchi](https://github.com/zBleend/Prueba-de-Tamagotchi-en-Java)** — Simulación de mascota virtual aplicando POO. `Java`
-- **[Banco Virtual](https://github.com/zBleend/Banco-en-Python)** — Lógica de cuentas bancarias y transacciones. `Python`
-- **[Conexión JDBC](https://github.com/zBleend/Probando-JDBC)** — Conexión a base de datos MySQL. `Java` `MySQL`
-- **[Reloj Digital](https://github.com/zBleend/RelojDigital)** — Reloj digital en HTML, CSS y JavaScript. `HTML` `CSS` `JavaScript`
-- **[Calculadora Java Swing](https://github.com/zBleend/Calculadora-Java-Swing)** — Interfaz gráfica interactiva para operaciones matemáticas. `Java` `Swing`
-- **[App Mantenimiento](https://github.com/zBleend/AppMantenimientoRust)** — Sistema de mantenimiento para Windows 11. `Rust`
+- **Tamagotchi** — Simulación de mascota virtual aplicando POO. `Java`
+- **Banco Virtual** — Lógica de cuentas bancarias y transacciones. `Python`
+- **Conexión JDBC** — Conexión a base de datos MySQL. `Java` `MySQL`
+- **Reloj Digital** — Reloj digital en HTML, CSS y JavaScript. `HTML` `CSS` `JavaScript`
+- **Calculadora Java Swing** — Interfaz gráfica interactiva para operaciones matemáticas. `Java` `Swing`
+- **App Mantenimiento** — Sistema de mantenimiento para Windows 11. `Rust`
 
 ---
 
