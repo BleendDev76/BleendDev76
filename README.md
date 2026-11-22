@@ -34,7 +34,6 @@ BleendDev76@github
   <img src="https://img.shields.io/badge/VS%20Code-244223?style=flat&labelColor=244223" alt="Visual Studio Code"/>
   <img src="https://img.shields.io/badge/Android%20Studio-244223?style=flat&logo=androidstudio&logoColor=88c958&labelColor=244223" alt="Android Studio"/>
   <img src="https://img.shields.io/badge/IntelliJ-244223?style=flat&logo=intellijidea&logoColor=88c958&labelColor=244223" alt="IntelliJ IDEA"/>
-  <img src="https://img.shields.io/badge/AWS-244223?style=flat&labelColor=244223" alt="AWS"/>
   <img src="https://img.shields.io/badge/Ableton-244223?style=flat&labelColor=244223" alt="Ableton Live"/>
   <img src="https://img.shields.io/badge/Bash-244223?style=flat&logo=gnubash&logoColor=88c958&labelColor=244223" alt="Bash"/>
 </p>
